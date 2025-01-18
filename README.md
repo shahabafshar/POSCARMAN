@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ### Clone the Repository
 ```bash
 git clone https://github.com/shahabafshar/POSCARMAN.git
-cd poscar-manager
+cd POSCARMAN
 ```
 
 ### Install Dependencies
@@ -88,7 +88,7 @@ python main.py
 ## File Structure
 
 ```
-poscar-manager/
+POSCARMAN/
 ├── main.py                # Main GUI application
 ├── read_write_poscar.py   # Logic for reading and writing POSCAR files
 ├── requirements.txt       # Dependencies
