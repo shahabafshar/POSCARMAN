@@ -35,6 +35,12 @@ A user-friendly graphical interface (GUI) for managing and modifying POSCAR file
 
 ---
 
+## Screenshot
+
+![Screenshot of the POSCAR Manager](POSCARMAN.png)
+
+---
+
 ## Requirements
 
 ### Prerequisites
@@ -52,7 +58,7 @@ pip install -r requirements.txt
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/shahabafshar/poscar-manager.git
+git clone https://github.com/shahabafshar/POSCARMAN.git
 cd poscar-manager
 ```
 
